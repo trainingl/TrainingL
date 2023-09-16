@@ -4,3 +4,7 @@
 - 📫 How to reach me? You can communicate and cooperate with me via email xlluo@stu.suda.edu.cn.
 
 *I am keen on blogging and technology sharing in my spare time.* 
+
+Publications
+[1] Dynamic Graph Convolutional Network with Attention Fusion for Traffic Flow Prediction. (Acceped by ECAI 2023)
+[2] STG4Traffic: A Survey and Benchmark of Spatial-Temporal Graph Neural Networks for Traffic Prediction. (Under Review)
