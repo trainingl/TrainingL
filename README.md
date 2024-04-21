@@ -1,6 +1,8 @@
 **About Me**
 
-Hi, I'm Xunlian Luo. A deep learning research enthusiast. My research interests include Spatial-Temporal Prediction and Graph Representation Learning, and I have a passion for exploring new AI technologies and practicing open source projects.
+👋 Hi, I'm Xunlian Luo. A deep learning research enthusiast. My research interests include Spatial-Temporal Prediction and Graph Representation Learning, and I have a passion for exploring new AI technologies and practicing open source projects.
+
+📫 How to reach me? You can communicate and cooperate with me via email xlluo@stu.suda.edu.cn.
 
 **Publications**
 
