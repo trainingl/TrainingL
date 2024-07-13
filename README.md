@@ -18,4 +18,4 @@
 
 2024-05-03: Served as a reviewer for the Journal of *Expert Systems With Applications*.
 
-2024-03-25: Completed a master's thesis titled "Research on Urban Traffic Prediction based on Spatial-Temporal Graph Neural Networks: Method and Benchmark" (published in half a year).
+2024-03-25: Completed a master's thesis titled *Research on Urban Traffic Prediction based on Spatial-Temporal Graph Neural Networks: Method and Benchmark* (published in half a year).
