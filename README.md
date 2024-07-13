@@ -14,8 +14,10 @@
 
 **Recent News**
 
+2024-07-08: Joined Bank of Communications, Software Development Center (Wuhan, China).
+
 2024-06-19: Awarded a master's degree from the School of Computer Science and Technology, Soochow University.
 
 2024-05-03: Served as a reviewer for the Journal of *Expert Systems With Applications*.
 
-2024-03-25: Completed a master's thesis titled *Research on Urban Traffic Prediction based on Spatial-Temporal Graph Neural Networks: Method and Benchmark* (public in half a year).
+2024-03-25: Completed a master's thesis titled *Research on Urban Traffic Prediction based on Spatial-Temporal Graph Neural Networks: Method and Benchmark* (public in half a year later).
