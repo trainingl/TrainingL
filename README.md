@@ -11,6 +11,7 @@
 [2] STG4Traffic: A Survey and Benchmark of Spatial-Temporal Graph Neural Networks for Traffic Prediction. [Paper Link](https://arxiv.org/abs/2307.00495)
 
 **Recent News**
+
 2024-06-19: Awarded a master's degree from the School of Computer Science and Technology, Soochow University.
 
 2024-03-15: Completed a master's thesis titled "Research on Urban Traffic Prediction based on Spatial-Temporal Graph Neural Networks: Method and Benchmark" (published in half a year).
