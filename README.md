@@ -8,9 +8,9 @@
 
 **Publications**
 
-[1] Dynamic Graph Convolutional Network with Attention Fusion for Traffic Flow Prediction. **(ECAI 2023, Rank CCF-B)**  [link](https://arxiv.org/abs/2302.12598) [codes](https://github.com/trainingl/AFDGCN)
+[1] Dynamic Graph Convolutional Network with Attention Fusion for Traffic Flow Prediction. **(ECAI 2023, Rank CCF-B)**  [Link](https://arxiv.org/abs/2302.12598) [Code](https://github.com/trainingl/AFDGCN)
 
-[2] STG4Traffic: A Survey and Benchmark of Spatial-Temporal Graph Neural Networks for Traffic Prediction. [link](https://arxiv.org/abs/2307.00495) [codes](https://github.com/trainingl/STG4Traffic)
+[2] STG4Traffic: A Survey and Benchmark of Spatial-Temporal Graph Neural Networks for Traffic Prediction. [Link](https://arxiv.org/abs/2307.00495) [Code](https://github.com/trainingl/STG4Traffic)
 
 **Recent News**
 
