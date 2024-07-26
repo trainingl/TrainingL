@@ -14,6 +14,8 @@
 
 **Recent News**
 
+2024-07-08: Joined a bank to engage in system software development.
+
 2024-06-19: Obtained a master's degree from the School of Computer Science and Technology, Soochow University (Su Zhou, China).
 
 2024-05-03: Served as a reviewer for the Journal of *Expert Systems With Applications*.
